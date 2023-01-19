@@ -1,0 +1,19 @@
+{
+    "name": "exmaple-fastapi",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "echo \"No build specified\" && exit 1",
+        "test": "echo \"No test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Venkteshwarsahu14/exmaple-fastapi.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Venkteshwarsahu14/exmaple-fastapi/issues"
+    },
+    "homepage": "https://github.com/Venkteshwarsahu14/exmaple-fastapi#readme"
+}
